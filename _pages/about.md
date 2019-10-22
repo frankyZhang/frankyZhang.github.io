@@ -12,6 +12,7 @@ I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Dep
 
 Recent Professional Activities
 ======
+* I serve as PC member of [The Web Conference 2020](https://www2020.thewebconf.org/).
 * I serve as PC member of [SIGIR 2019](http://sigir.org/sigir2019/).
 * Our paper ***"Evaluating Web Search with a Bejeweled Player Model"*** won the **Best Student Paper Award** at [SIGIR 2017](http://sigir.org/sigir2017/)!
 
