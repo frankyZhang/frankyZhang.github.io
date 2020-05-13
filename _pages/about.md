@@ -12,12 +12,15 @@ I am now a third year Ph.D. student in [THUIR group](http://www.thuir.cn/), [Dep
 
 Recent Professional Activities
 ======
+* I serve as PC member of [SIGIR 2020](http://sigir.org/sigir2020/).
 * I serve as PC member of [The Web Conference 2020](https://www2020.thewebconf.org/).
 * I serve as PC member of [SIGIR 2019](http://sigir.org/sigir2019/).
 * Our paper ***"Evaluating Web Search with a Bejeweled Player Model"*** won the **Best Student Paper Award** at [SIGIR 2017](http://sigir.org/sigir2017/)!
 
 Publications
 ======
+* ***Fan Zhang***, Jiaxin Mao, Yiqun Liu, Xiaohui Xie, Weizhi Ma, Min Zhang, and Shaoping Ma. Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**).
+* ***Fan Zhang***, Jiaxin Mao, Yiqun Liu, Weizhi Ma, Min Zhang, and Shaoping Ma. Cascade or Recency: Constructing Better Evaluation Metrics for Session Search. The 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2020**).
 * Yunqiu Shao, Yiqun Liu, ***Fan Zhang***, Min Zhang and Shaoping Ma. On Annotation Methodologies for Image Search Evaluation. Accepted by ACM Transactions on Information Systems (**TOIS**).
 * ***Fan Zhang***, Ke Zhou, Yunqiu Shao, Cheng Luo, Min Zhang and Shaoping Ma. How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search? The 41st International ACM SIGIR Conference on Research and Development in Information Retrieval (**SIGIR 2018**).
 * ***Fan Zhang***, Yiqun Liu, Xin Li, Min Zhang, Yinghui Xu and Shaoping Ma. Evaluating Web Search with a Bejeweled Player Model. The 40th ACM SIGIR International Conference on Research and Development in Information Retrieval (**SIGIR 2017 Best Student Paper Award**).
