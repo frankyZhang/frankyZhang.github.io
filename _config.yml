@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Fan Zhang"
 title_separator          : "-"
 name                     : &name "Fan Zhang"
-description              : &description "Ph.D. candidate at Tsinghua University"
+description              : &description "Associate Professor"
 url                      : https://frankyZhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frankyZhang.github.io"
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "张帆"
-  avatar           : "fan.jpg"
-  bio              : "Ph.D. candidate at Tsinghua University"
-  location         : "Beijing, China"
+  name             : "Fan Zhang"
+  avatar           : "商务照.jpeg"
+  bio              : "Associate Professor"
+  location         : "Wuhan, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=UIJxhUsAAAAJ"
-  email            : "frankyzf94@gmail.com"
+  email            : "fan.zhang@whu.edu.cn"
   uri              :
   bitbucket        :
   codepen          :
@@ -100,7 +100,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-0831-7371"
   pinterest        :
   soundcloud       :
   stackoverflow    :
