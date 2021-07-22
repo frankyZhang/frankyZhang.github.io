@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am now a tenure-track associate professor in [School of Information Management, Wuhan University](http://sim.whu.edu.cn), Wuhan, China. Before that, I received my PhD from Tsinghua University in Computer Science and Technology, under the supervision of Professor [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval, Search Evaluation, and User Behavior Analysis. I also served as a reviewer and PC member for SIGIR, WWW, WSDM, CIKM, KDD, IJCAI, ICTIR, etc..
+I am now a tenure-track associate professor in [School of Information Management](https://sim.whu.edu.cn), [Wuhan University](https://www.whu.edu.cn), Wuhan, China. Before that, I received my PhD from [Tsinghua University](https://www.tsinghua.edu.cn) in Computer Science and Technology, under the supervision of Professor [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval, Search Evaluation, and User Behavior Analysis. I also served as a reviewer and PC member for SIGIR, WWW, WSDM, CIKM, KDD, IJCAI, ICTIR, etc..
 
 News
 ======
 * Our paper titled ***"Conversational vs Traditional: Comparing Search Behavior and Outcome in Legal Case Retrieval"*** has been published at [SIGIR 2021](https://sigir.org/sigir2021/)
 * Our paper titled ***"Towards a Better Understanding of Query Reformulation Behavior in Web Search"*** has been published at [WebConf 2021](https://www2021.thewebconf.org/)
-* Our paper titled ***"User Behavior Modeling for Web Search Evaluation"*** has been published in [AI Open](http://www.keaipublishing.com/en/journals/ai-open/)
+* Our article titled ***"User Behavior Modeling for Web Search Evaluation"*** has been published in [AI Open](http://www.keaipublishing.com/en/journals/ai-open/)
 * Our paper titled ***"Models Versus Satisfaction: Towards a Better Understanding of Evaluation Metrics"*** won the **Full Paper Honorable Mention** at [SIGIR 2020](http://sigir.org/sigir2020/)!
 
 Publications
@@ -34,5 +34,5 @@ Publications
 
 Awards
 ======
-Full Paper Honorable Mention Award of SIGIR 2020.
-Best Student Paper Award of SIGIR 2017.
+* Full Paper Honorable Mention Award of SIGIR 2020.
+* Best Student Paper Award of SIGIR 2017.
