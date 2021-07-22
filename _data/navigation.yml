@@ -1,7 +1,10 @@
 # main links links
 main:
-  - title: "Activities"
-    url: /#Activities
+  - title: "News"
+    url: /#news
 
   - title: "Publications"
     url: /#publications
+
+  - title: "Awards"
+    url: /#awards
