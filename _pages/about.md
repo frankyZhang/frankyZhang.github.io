@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am now a tenure-track associate professor in [School of Information Management, Wuhan University](http://sim.whu.edu.cn), Wuhan, China. Before that, I received my PhD from Tsinghua University in Computer Science and Technology, under the supervision of Professor Yiqun Liu. My major research interests are in Information Retrieval, Search Evaluation, and User Behavior Analysis. I also served as a reviewer and PC member for SIGIR, WWW, WSDM, CIKM, KDD, IJCAI, ICTIR, etc..
+I am now a tenure-track associate professor in [School of Information Management, Wuhan University](http://sim.whu.edu.cn), Wuhan, China. Before that, I received my PhD from Tsinghua University in Computer Science and Technology, under the supervision of Professor [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/). My major research interests are in Information Retrieval, Search Evaluation, and User Behavior Analysis. I also served as a reviewer and PC member for SIGIR, WWW, WSDM, CIKM, KDD, IJCAI, ICTIR, etc..
 
 News
 ======
